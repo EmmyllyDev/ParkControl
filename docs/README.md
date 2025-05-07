@@ -17,6 +17,7 @@ e facilitar o processo de pagamento para clientes e administradores. Com ele, é
 Diferente de soluções convencionais que utilizam controle manual ou sistemas desconectados, o ParkControl permite uma gestão integrada e digitalizada, aumentando a eficiência operacional dos estacionamentos.
 
 ## 🛠️ Ferramentas e Recursos
+- **Proposta do Projeto**: https://docs.google.com/spreadsheets/d/1mKRytJ_-GpVAO4epYlFwmCBKqOT-mxCnU5A0F7v2_Xk/edit?gid=1944584764#gid=1944584764
 - **Linguagem de Programação**: Python (Django)
 - **Banco de Dados**: SQLite (Banco de dados padrão do Django para desenvolvimento)
 - **Plataformas Online**: GitHub como controle de tarefas e organização nas documentações
